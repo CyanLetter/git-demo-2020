@@ -2,6 +2,8 @@
 
 Make sure to pull often!
 
+Stay in sync!
+
 ## 1. Getting a new project started with Github.
 You're probably looking at this readme file on GitHub right now! If you're somewhere else, go here: https://github.com/CreativeCircus/circus-starter
 
