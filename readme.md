@@ -1,4 +1,4 @@
-# How to use the Circus Starter Template v1.7.2
+# How to use Git
 
 Make sure to pull often!
 
