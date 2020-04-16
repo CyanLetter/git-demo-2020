@@ -1,4 +1,4 @@
-# How to use Git
+# How to use Git and VSCode
 
 Make sure to pull often!
 
